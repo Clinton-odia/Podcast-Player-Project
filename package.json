@@ -1,0 +1,19 @@
+{
+  "name": "Podcast Player Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server,js"
+  },
+  "keywords": [],
+  "author": "clinton",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.2",
+  "dependencies": {
+    "axios": "^1.18.0",
+    "cryptojs": "^2.5.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
